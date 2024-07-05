@@ -1,0 +1,8 @@
+streamlit==1.24.0
+openai-whisper==20230314
+torch==2.0.1
+pyannote.audio==2.1.1
+scikit-learn==1.2.2
+numpy==1.23.5
+moviepy==1.0.3
+pydub==0.25.1

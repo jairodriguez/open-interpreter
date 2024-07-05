@@ -1,5 +1,5 @@
 import streamlit as st
-import whisper
+import openai-whisper as whisper
 import datetime
 import subprocess
 import torch
